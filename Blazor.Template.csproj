@@ -6,4 +6,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Graphics\TeamGraphics\Alex.png" />
+    <None Include="wwwroot\Graphics\TeamGraphics\David.png" />
+    <None Include="wwwroot\Graphics\TeamGraphics\Megan.png" />
+    <None Include="wwwroot\Graphics\TeamGraphics\TheNerd.png" />
+    <None Include="wwwroot\Graphics\TeamGraphics\Valdemar.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
 </Project>
