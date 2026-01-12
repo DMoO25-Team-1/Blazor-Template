@@ -1,0 +1,55 @@
+# ======================
+# Visual Studio
+# ======================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ======================
+# Build output
+# ======================
+bin/
+obj/
+
+# ======================
+# .NET SDK / tooling
+# ======================
+.dotnet/
+*.dll
+*.pdb
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# OS / Editor
+# ======================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.swp
+*.tmp
+
+# ======================
+# Secrets / Local config
+# ======================
+appsettings.Development.json
+appsettings.Local.json
+
+# ======================
+# Node / frontend (hvis I senere bruger det)
+# ======================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# Rider / VS Code
+# ======================
+.idea/
+.vscode/
